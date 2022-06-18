@@ -11,3 +11,5 @@ With the popularization of mobile devices, we are generating massive amounts of 
 ## Dataset description
 
 The dataset to be used in this assessment is a collection of sponsored political posts on Facebook targeted at US users  during 23 months (03/2020-01/2022). This includes the period preceding the latest US Presidential election in  November 2020. A description of the data structure is available starting from:  https://www.facebook.com/ads/library/api/. The dataset covers 23-month worth of data collected from this API. The  format in which the data is provided by Facebook is JSON files. Each file is the result of a request for active ad  campaigns performed every 12 hours during the 23 months period, thus a lot of ad campaigns are duplicated across  files (i.e., if ad campaigns run for more than 12 hours) 
+
+![wordcloud](wordcloud.png)
